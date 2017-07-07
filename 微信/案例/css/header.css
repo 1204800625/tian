@@ -40,8 +40,8 @@
 }
 
 #header-control div:nth-child(1) {
-	height:18px; width: 18px;
-	background: url(../img/icon/material/返回.svg) no-repeat;
+	height:18px; width: 2px;
+	background: url(../img/icon/material/微信.svg) no-repeat;
 	background-size: contain;
 	
 }
@@ -67,10 +67,13 @@
 	padding-right: 8px;
 	
 }
-
+#as{
+	margin-right: 15px;
+	
+}
 /* 加号  */
 #add {
-	height: 22px;width: 22px;
+	height: 20px;width: 20px;
 	
 	background: url(../img/icon/material/加号.svg) no-repeat;
 	background-size: contain;
